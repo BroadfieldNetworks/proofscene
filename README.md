@@ -45,6 +45,7 @@ verified product, demo, tool, support, and community links. ProofScene source co
 - [X](https://x.com/proofsceneapp)
 - [YouTube](https://www.youtube.com/@Proofscene)
 - [Reddit community](https://www.reddit.com/r/proofscene/)
+- [Instagram](https://www.instagram.com/proofscene/)
 - [Trustpilot](https://www.trustpilot.com/review/proofscene.com)
 
 For product questions or support, visit [proofscene.com/contact](https://proofscene.com/contact/).
